@@ -1,0 +1,2 @@
+# BlazorStatePWA
+Instructions for BlazorStatePWA
