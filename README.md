@@ -16,3 +16,16 @@ Familiarity with these concepts and frameworks will be helpful when using Blazor
 # BlazorStatePWA
 
 [Blazor-State PWA](https://timewarpengineering.github.io/blazor-state/docs/overview.html)
+
+# Edge Login
+[Login and Wallet](
+
+
+
+
+# To Qualify
+You must 
+> - build a PWA leveraging the stack mentioned above
+> - Inject Web3
+> - with the branded assets found [here](https://github.com/herchackathon/BlazorStateAssets)
+> - utilizing the Edge Secure Identity Solution for login
